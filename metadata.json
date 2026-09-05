@@ -1,0 +1,6 @@
+{
+  "name": "SkillSwap",
+  "description": "Student peer skill exchange platform for MITS Gwalior featuring verified mobile/email onboarding, live 1-on-1 video sessions, and interactive skill matching.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
