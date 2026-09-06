@@ -2,7 +2,7 @@ SkillSwap
 Peer-to-peer skill exchange for students
 
 🌐 Live Demo
-[YOUR DEPLOYED URL]
+https://github.com/DhuandharCoder/SkillSwap
 
 🎯 Problem
 Students have skills they can teach but struggle to
@@ -18,10 +18,9 @@ teach and what they want to learn.
 • Matching
 • AI assistance
 • Secure OTP authentication
-• ...
+
 
 🛠️ Tech Stack
 React
 TypeScript
 Express
-...
